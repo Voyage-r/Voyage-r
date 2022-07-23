@@ -6,8 +6,14 @@
 
 <p>
 <img src="https://github.com/Voyage-r/Voyage-r/blob/main/Images/Csharp_Logo.png" height="40" style="vertical-align:down; margin:4px" alt="C Sharp">
-<img src="https://commons.wikimedia.org/wiki/File:VB.NET_Logo.svg" height="40" style="vertical-align:down; margin:4px" alt="VBA">
 </p>
+
+
+**Contacts:**
+<p>
+<img src="https://github.com/Voyage-r/Voyage-r/blob/main/Images/Discord_logo.svg.png" href="https://vk.com/pugalo0" height="40" style="vertical-align:down; margin:4px" alt="voyager#9625">
+</p>
+
 <!--
 **Voyage-r/Voyage-r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
