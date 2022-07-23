@@ -11,7 +11,8 @@
 
 **Contacts:**
 <p>
-<img src="https://github.com/Voyage-r/Voyage-r/blob/main/Images/Discord_logo.svg.png" height="40" style="vertical-align:down; margin:4px" alt="voyager#9625">
+ <a href="https://discordapp.com/users/327394506699964416/"><img src="https://github.com/Voyage-r/Voyage-r/blob/main/Images/Discord_logo.svg.png" height="40" style="vertical-align:down; margin:4px" alt="Discord"></a>
+
 </p>
 
 <!--
