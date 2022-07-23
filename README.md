@@ -2,6 +2,12 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">I am self-taught from Russia, I am striving to become a backend developer. And later as a developer of games on Unity</h3>
 
+**Languages and Tools:**
+
+<p>
+<img src="https://commons.wikimedia.org/wiki/File:Csharp_Logo.png" height="40" style="vertical-align:down; margin:4px" alt="C Sharp">
+<img src="https://commons.wikimedia.org/wiki/File:VB.NET_Logo.svg" height="40" style="vertical-align:down; margin:4px" alt="VBA">
+</p>
 <!--
 **Voyage-r/Voyage-r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
