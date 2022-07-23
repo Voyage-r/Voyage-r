@@ -11,7 +11,7 @@
 
 **Contacts:**
 <p>
-<img src="https://github.com/Voyage-r/Voyage-r/blob/main/Images/Discord_logo.svg.png" href="https://vk.com/pugalo0" height="40" style="vertical-align:down; margin:4px" alt="voyager#9625">
+<img src="https://github.com/Voyage-r/Voyage-r/blob/main/Images/Discord_logo.svg.png" height="40" style="vertical-align:down; margin:4px" alt="voyager#9625">
 </p>
 
 <!--
