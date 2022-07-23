@@ -1,6 +1,6 @@
-<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Vladimir</a> 
+<h1 align="center">Hi there, I'm <a href="https://vk.com/pugalo0" target="_blank">Vladimir</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">I am self-taught, aspiring to become a backend developer</h3>
+<h3 align="center">I am self-taught from Russia, I am striving to become a backend developer. And later as a developer of games on Unity</h3>
 
 <!--
 **Voyage-r/Voyage-r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
