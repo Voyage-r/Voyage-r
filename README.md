@@ -5,7 +5,7 @@
 **Languages and Tools:**
 
 <p>
-<img src="https://commons.wikimedia.org/wiki/File:Csharp_Logo.png" height="40" style="vertical-align:down; margin:4px" alt="C Sharp">
+<img src="https://github.com/Voyage-r/Voyage-r/blob/main/Images/Csharp_Logo.png" height="40" style="vertical-align:down; margin:4px" alt="C Sharp">
 <img src="https://commons.wikimedia.org/wiki/File:VB.NET_Logo.svg" height="40" style="vertical-align:down; margin:4px" alt="VBA">
 </p>
 <!--
